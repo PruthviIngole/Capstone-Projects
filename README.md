@@ -1,22 +1,16 @@
-# Project - An Intelligent Customer Support and Feedback System with Sentimental Analysis
+# Do More With Data
+This repository contains various personal Data Anlysis, Business Intelligence, Artificial Intelligence and Machine Learning projects by Obie Udemezue 
 
-# Introduction
-In this competitive business environment, customers are more demanding, with more power and expectations than ever. Customer happiness is considered a key driver for any organization to grow its operations, and maximize its revenue at an optimum level. Therefore, many organizations are recognizing the importance of utilizing big data technology to better understand their customers and the factors that drive their satisfaction. 
+### bit-see, AI ML Based Bitcoin Price Prediction Web Application (link to application: https://bit-see.herokuapp.com/)
+This Web application exploits time-series forecasting methods to predict the price of Bitcoin, using machine learning. Organizations, markets and industries are daily in need of the ability to accurately predict the performance of their value drivers, and time-series forecasting leveraging on machine learning algorithms have made this possible.
+Although cryptocurrencies have been tagged by financial experts as the future of transactions, Bitcoin, which is the most popular and acceptable cryptocurrency has a very volatile price trend, making it challenging for this method of transaction to gain the trust of its users. By providing accurate predictions of Bitcoin prices, I intend increasing the trust of both those who simply use cryptocurrencies for everyday transactions or investors seeking to make profits from Bitcoin as every other money market.
+I chose to tackle a time-series challenge as I believe that the approach can be easily replicated by various organizations operating in diverse sectors.
 
-Incorporating artificial intelligence driven solutions enables companies to become more customer centric by analyzing unstructured data, highlighting key customer information and have it immediately accessible to decision makers.  
+### Chatbot and Sentiment Analysis, AI ML Based Intelligent Customer Support and Feedback System (web app link can be provided if required)
+The e-commerce industry is a fast paced, highly competitive and continuously growing space requiring businesses operating within the industry to maintain a high customer engagement and satisfaction level. An online retailer have been able to identify a major problem they are faced with, which is keeping up with customer engagement especially in the area of providing customer support, enquiry tickets resolution and feedback. The problem of keeping up with customer engagement can be clearly stated on a finer level as: the low engagement rates witnessed when using email-based feedback channels, the 'mechanical' seeming customer support systems often built on just archives of frequently asked questions, the support systems lacking in the ability of determining the emotional sentiment of the customer, the relatively slower time it takes for the  support staff to resolve a backlog of enquiry ticket which is very costly for this fast paced industry, the low customer experience rating as a result of customers being unable to reach support staff during peak business times, and the high cost of running the customer support centers after regular business hours, weekends and public holidays; this system (comprising of two modules - sentiment analysis module and chatbot module) aims at  helping the selected company improve its current business processes by using a machine learning classifier to identify and group customers' words that express sentiments, making it easy for quicker resolutions according to the current business priorities. Also, the chatbot module helps to quickly respond to customers' enquiries, thereby reducing wait time and increasing customers' satisfaction.
 
-The project will utilize Natural Language Processing (NLP) to cluster customers and classify if a customer is happy, neutral or angry, and be able to match a customer service representative to keep the customer pleased. In a nutshell this project is not utilizing AI to replace customer support teams, but using AI technology to make customer support more effective, and data driven. 
+I have a good understanding of the key aspects of an AI/ML pipeline such as Exploratory Data Analysis (EDA), Data Pre-processing (Data cleaning, Feature Selection and Feature Engineering), Model selection, Modeling and Model Evaluation; tackling problem areas as Forecasting/Regression, Categorization/Classification, Natural Language Processing,  and Computer Vision. I have developed AI/ML solutions for client organizations in healthcare, retail, technology, legal, tourism, government, and financial sectors.
 
-# Problem Statement
-The objective of this project is to design and develop an intelligent customer support algorithm with sentimental analysis that will help a business serve their customers effectively while lowering support costs, and increasing customer loyalty. The below points define the key problems the project is trying to address throughout the project development life cycle:
-- Gaining better insights and understand the factors that influence the customer opinions about a product and/or a service;
-- Enhancing customer service processes by bringing customer feedback from multiple channels, into a single data lake to analyze;
-- Eliminating the time required to analyze customer sentiment and provide decision makers with real time insight on customer analytics.
+I am also skilled in data analysis, data visualization and reporting, and I have included samples of dashboards and reports I have designed to support business decision making. 
 
-# Project Methodology
-The below chart illustrates at high level the project methodology that will be utilized to deliver the project successfully:
-![Project Methodology](https://github.com/ahmadbarakt/cap_stone_2/blob/master/images/Project%20Methdology.png)
-
-# Model Architecture
-The conceptual solution overview in Figure 3 gives visibility of the main users and the high level functional and technical components which make up the solution.
-![Model Architecture](https://github.com/ahmadbarakt/cap_stone_2/blob/master/images/Model%20Arc.png)
+![](images/ai.jpg)
